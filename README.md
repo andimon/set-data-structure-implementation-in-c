@@ -2,7 +2,7 @@
 
 A set is an unordered collection of elements that does not allow for elements to be repeated e.g. the set {5,2,2} is the same as {5,2}.
 
-Functions definitionof the operations implemented:
+Function  definitions of the operations implemented:
 ```c
 bool isEmpty(Set *set);
 void insert(Set* set, int member );
